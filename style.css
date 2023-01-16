@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    font-family: monospace;
+}
+.treeball{
+    top: 10%;
+    left: 5%;
+    transform: translate(-5%, -80%);
+    width: 500px;
+    position: absolute;
+}
+.lefticon{
+    top: 10%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+.inputs{
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: #292727;
+}
+.unlimited{
+    width: 560px;
+    padding: 10px;
+}
+.text{
+    top: 49%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: #292727;
+}
+.righticon{
+    top: 8%;
+    left: 80%;
+    transform: translate( 15%, -10%);
+    position: absolute;
+}
+.photo{
+    width: 632px;
+    height: 600px;
+    top: 17%;
+    left: 37.5%;
+    position: relative;
+}
+.vector{
+    position: absolute;
+    top: 23%;
+    left: 5%;
+    transform: translate(-50%, -50%);
+}
+.unt{
+    position: absolute;
+    top: 22%;
+    right: 145%;
+}
+.signin{
+    position: absolute;
+    font-family: monospace;
+    color: #292727;
+    top: 35%;
+    left: 5%;
+    transform: translate(-8%, -50%);
+}
+.new{
+    position: absolute;
+    top: 41%;
+    left: 5%;
+    transform: translate(-8%, -130%);
+    color: #292727;
+}
+.signup{
+    color: #1B3E94;
+    position: absolute;
+    top: 41%;
+    left: 5%;
+    transform: translate( 96%, -130%);
+}
+.email{  
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #404040;
+    top: 725%;
+    right: 125%;
+    transform: translate(1%, -50%);
+    width: 240px;
+}
+.texts{
+    color: #404040;
+}
+.temail{
+    position: absolute;
+    color: #404040;
+    top: 41.1%;
+    left: 5%;
+    transform: translate(4%, -1%);
+}
+.password{
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #404040;
+    top: 835%;
+    right: 125%;
+    transform: translate(1%, -50%);
+    width: 240px;
+}
+.tpassword{
+    position: absolute;
+    color: #404040;
+    top: 46.5%;
+    left: 4.9%;
+    transform: translate(4%, -1%);
+}
+.forgot{
+    color: #1B3E94;
+    font-size: large;
+    top: 53%;
+    left: 4%;
+    transform: translate(1%, -50%);
+    position: absolute;
+}
+.Si{
+    position: absolute;
+    background-color: #1B3E94;
+    border: none;
+    width: 225px;
+    height: 60px;
+    border-radius: 12px;
+    font-size: 20px;
+    color: white;
+    top: 57%;
+    left: 5%;
+    transform: translate(-1%, -20%);
+    cursor: pointer;
+}
+.google{
+    position: absolute;
+    top: 66%;
+    left: 7%;
+    transform: translate(-50%, -20%);
+}
+.sigo{
+        position: absolute;
+        color: black;
+        top: 66%;
+        left: 9%;
+        transform: translate(-1%, -6%);
+        font-size: large;
+}
